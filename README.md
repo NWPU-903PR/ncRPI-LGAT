@@ -79,7 +79,7 @@ Note: There is randomness in the existence process because the data is shuffled 
 
 * --datasetName: The name of dataset you want to use, and this is the same as {yourProjectName} in previous steps.
 
-* --interactionName : The name of existing ncRNA-protein interaction dataset, like NPInter2, NPInter2\_lncRNA, RPI7317,RPI2241, and RPI369.
+* --interactionName : The name of existing ncRNA-protein interaction dataset, like NPInter2, NPInter2\_lncRNA, RPI7317, and RPI2241.
 
 * --fold : Which fold you want to run, 0-4.
 
