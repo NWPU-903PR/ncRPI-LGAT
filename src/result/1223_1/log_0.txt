@@ -1,0 +1,5 @@
+training dataset : 1223_1_inMemory2_train_case_0testing dataset : 1223_1_inMemory2_test_case_0database：1223_1
+node2vec_windowSize = 5
+number of eopch ：100
+learn rate：initial = 0.001，whenever loss increases, multiply by 0.95
+L2 weight decay = 0.001
